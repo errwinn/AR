@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1ded9167a1ad7fd40806ce99f0dca470
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stroke: {instanceID: 0}
+  - imageTarget: {instanceID: 0}
+  - videoplayer: {instanceID: 0}
+  - buttonUIplay: {instanceID: 0}
+  - buttonUIreplay: {instanceID: 0}
+  - buttonSpeed2x: {instanceID: 0}
+  - buttonSpeed1x: {instanceID: 0}
+  - objectData: {fileID: 11400000, guid: f6976ae4aa2180f4ca8f95843d9d4180, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
